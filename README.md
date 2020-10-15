@@ -6,6 +6,10 @@
         <td>德国</td>
         <td>89.163.245.185</td>
         <td>23456</td>
+         <td>dongtaiwang.com 123abc</td>
+        <td>aes-256-cfb</td>
+        <td>origin</td>
+         <td>plain</td>
     </tr>
 </table>
 加利福尼亚1	107.148.240.162	34567	dongtaiwang.com 123abc	aes-256-cfb	origin	plain

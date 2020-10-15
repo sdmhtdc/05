@@ -3,6 +3,15 @@
 ## 德国	89.163.245.185	  23456  	dongtaiwang.com 123abc	aes-256-cfb	  origin 	plain
 <table>
     <tr>
+        <td>服务器位置</td>
+        <td>服务器地址</td>
+        <td>端口</td>
+         <td>密码</td>
+        <td>加密方式</td>
+        <td>协议	</td>
+         <td>混淆</td>
+    </tr>
+    <tr>
         <td>德国</td>
         <td>89.163.245.185</td>
         <td>23456</td>
@@ -11,9 +20,14 @@
         <td>origin</td>
          <td>plain</td>
     </tr>
+        <tr>
+        <td>加利福尼亚1</td>
+        <td>107.148.240.162</td>
+        <td>34567</td>
+         <td>dongtaiwang.com 123abc</td>
+        <td>aes-256-cfb</td>
+        <td>origin</td>
+         <td>plain</td>
+    </tr>
 </table>
-加利福尼亚1	107.148.240.162	34567	dongtaiwang.com 123abc	aes-256-cfb	origin	plain
-莫斯科1	192.109.98.110	12345	dongtaiwang.com 123abc	aes-256-cfb	origin	plain
-莫斯科2	192.109.98.109	12345	dongtaiwang.com 123abc	aes-256-cfb	origin	plain
-洛杉矶1	45.66.156.162	23456	dongtaiwang.com 123abc	aes-256-cfb	origin	plain
-洛杉矶2	45.88.40.154	12345	dongtaiwang.com 123abc	aes-256-cfb	origin	plain
+注意：密码中间有空格，建议直接复制

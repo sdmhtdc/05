@@ -1,3 +1,1 @@
-用电脑浏览器打开该页面，点击绿色（↓code）按钮，选择下载zip，在手机上安装好后，填入下列任一账号（账号都可以用的，不定期更新）：
-
-# https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+这是我的tok账号: 247AFFF3A22C64378956ED49C2F4D8B9008F2440D400ADF3F0FDD725751BBE5E5110D1B252C3
